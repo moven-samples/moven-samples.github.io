@@ -1,4 +1,4 @@
 # Moven Samples
 
-[BCA App Link Test Page](bca-link-test.html)
+See the [website](https://moven-samples.github.io/) for details
 
